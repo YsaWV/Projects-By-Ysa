@@ -1,0 +1,22 @@
+html, body {
+  margin: 5px;
+  padding: 5px;
+  text-align: center
+}
+canvas {
+  display: block;
+}
+h1 {
+  font-family: fantasy; font-size: 60px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 50px;
+  color:#4E4AFFFF;
+}
+
+h2 {
+  font-family: fantasy; font-size: 50px; font-style: normal; font-variant: normal;font-weight: 700; line-height: 80px;
+    color:#912FA1FF;
+}
+ul {
+  display: table;
+  margin: 100px;
+  text-align: left;
+}
